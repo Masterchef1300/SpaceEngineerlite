@@ -1,0 +1,6 @@
+## Controls
+- Mouse: left-click & drag left-bottom area = joystick; left-click elsewhere mines; click HUD to place blocks.
+- Keyboard: WASD / arrows; P = pause, R = restart, Esc = quit.
+
+## Notes
+This is a prototype; feel free to request refactors or additions (sound, touch API, Android/iOS port).
