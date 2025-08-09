@@ -1,0 +1,9 @@
+# Visual Studio / build artifacts
+*.obj
+*.exe
+*.pdb
+*.suo
+*.user
+.vs/
+bin/
+build/
